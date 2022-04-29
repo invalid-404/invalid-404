@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @invalid-404
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-invalid-404/invalid-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  Hi there 🍭
+</h2>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/938054485312430101.png"><br>
+  <img src="https://count.getloli.com/get/@invalid-404?theme=rule34"/>
+</p>
